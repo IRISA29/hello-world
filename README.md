@@ -1,2 +1,5 @@
 # hello-world
-Sólo un repositorio de prueba
+
+Hola Gente!!!
+
+Aquí estoy tratando de aprender un poco!
